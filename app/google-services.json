@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "474584022687",
+    "project_id": "kaizen-619e9",
+    "storage_bucket": "kaizen-619e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474584022687:android:18beffd31c9f17e4816caa",
+        "android_client_info": {
+          "package_name": "com.yugentech.kaizen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474584022687-8jq3ch3kr71qajqef07bfnmrev87i2hp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yugentech.kaizen",
+            "certificate_hash": "7f8d0ea144e3742a7891fe7e1314c9db0cc1c423"
+          }
+        },
+        {
+          "client_id": "474584022687-c86qpddemdjhieralea8vn8f90ml5i2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqmMuWY6Mw76xRN0l3Cy-dQqQH90cxQic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474584022687-c86qpddemdjhieralea8vn8f90ml5i2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
