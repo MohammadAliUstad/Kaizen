@@ -45,7 +45,7 @@ Welcome to **Kaizen**, your personalized companion for self-improvement and mind
 
 <img src="Screenshots/IMG_0340.JPG" width="30%"/>
 <img src="Screenshots/IMG_0342.JPG" width="30%"/>
-<img src="Screenshots/IMG_0341.JPG" width="30%"/>
+<img src="Screenshots/IMG_0344.JPG" width="30%"/>
 
 </div>
 
