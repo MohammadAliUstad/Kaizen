@@ -38,15 +38,14 @@ Welcome to **Kaizen**, your personalized companion for self-improvement and mind
 
 <div align="center">
   
-<img src="Screenshots/IMG_0328.JPG" width="30%"/>
-<img src="Screenshots/IMG_0329.JPG" width="30%"/>
-<img src="Screenshots/IMG_0348.JPG" width="30%"/>
+<img src="Screenshots/IMG_0336.JPG" width="30%"/>
+<img src="Screenshots/IMG_0338.JPG" width="30%"/>
 
 <br/><br/>
 
-<img src="Screenshots/IMG_0349.JPG" width="30%"/>
-<img src="Screenshots/IMG_0350.JPG" width="30%"/>
-<img src="Screenshots/IMG_0351.JPG" width="30%"/>
+<img src="Screenshots/IMG_0340.JPG" width="30%"/>
+<img src="Screenshots/IMG_0342.JPG" width="30%"/>
+<img src="Screenshots/IMG_0341.JPG" width="30%"/>
 
 </div>
 
